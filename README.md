@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush!</h1>
 <br>
 <p align="center">
-I’m a final year student pursuing my bachelors at Bits Pilani – Goa Campus. Most of my work and interest lies in deep learning and software development. When I'm not coding, yo can find me taking photos or trying to jump out of the nearest plane.
+I’m a final year student pursuing my bachelors at Bits Pilani – Goa Campus. Most of my work and interest lies in deep learning and software development. When I'm not coding, you can find me taking photos or trying to jump out of the nearest plane.
 </p>
 <p align="center"> 
   To know more about me, you might want check to my Linkedin profile or visit my website.
